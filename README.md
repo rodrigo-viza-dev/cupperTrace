@@ -155,7 +155,7 @@ Validación tras manipular bloque 5: FALLÓ
 ### 1. Clonar el repo
 
 ```bash
-git clone https://github.com/TU-USUARIO/coppertrace.git
+git clone https://github.com/rodrigo-viza-dev/coppertrace.git
 cd coppertrace
 ```
 
@@ -313,7 +313,7 @@ MIT. Ver [LICENSE](LICENSE).
 
 ## 👤 Autor
 
-**Rodrigo** — [@TU-USUARIO](https://github.com/TU-USUARIO)
+**Rodrigo** — [@rodrigo-viza-dev](https://github.com/rodrigo-viza-dev)
 
 Proyecto personal/académico. Datos simulados. Sin participación en
 competencias ni hackathones.
